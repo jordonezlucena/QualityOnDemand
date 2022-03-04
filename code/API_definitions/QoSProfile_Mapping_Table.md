@@ -1,1 +1,4 @@
 # QoS Profiles Mapping Table
+HIGH_THROUGHPUT -> 5QI = 9
+MEDIUM_THROUGHPUT -> 5QI = 6
+LOW_THROUGHPUT -> 5QI = ?
